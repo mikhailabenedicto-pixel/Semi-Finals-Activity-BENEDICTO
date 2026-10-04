@@ -1,5 +1,4 @@
-# Activity 3: 3D Coordinate Geometry, Distance Metrics, & Spatial Bounding Volumes
-# Pure Python 3.10+ (standard library only: math + random). No Pygame required.
+# Activity 3: 3D Coordinate Geometry, Distance Metrics, & Spatial Bounding Volume
 
 import math
 import random

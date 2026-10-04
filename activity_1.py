@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Activity 1: 2D Animation, Tweening & Morphing Engine
 =====================================================
